@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "addWater",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_newPlantId",
+						"type": "uint256"
+					}
+				],
+				"name": "changePlantId",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "waterLevel",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Session_01/LearnNumber.sol": "LearnNumber"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Session_01/LearnNumber.sol": {
+			"keccak256": "0xc1c1d7376c69b54c5ebe6e531ff07fdd18103136d69db991adc5fd96fd040c5c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0b368694bc475267b6ea0e2ac64d92271d111b6beac2195cebbe5d6a0233568e",
+				"dweb:/ipfs/QmYfma9VaiRpcVeV1G9cdgdtXsCXcvPYBv65quScaQEirB"
+			]
+		}
+	},
+	"version": 1
+}
