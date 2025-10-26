@@ -9,6 +9,7 @@ contract LearnErrorHandling {
     constructor() {
         owner = msg.sender;
         balance = 100;
+        
     }
 
     // REQUIRE: Validasi input dan kondisi (yang paling umum!)
