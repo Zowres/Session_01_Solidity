@@ -103,6 +103,7 @@ contract LiskGarden{
         emit PlantWatered(plantId, plant.waterLevel);
 
         //update plant stage nanti
+        updatePlantStage(plantId);
     }
 
     function updatePlantStage(uint256 plantId) public {
@@ -172,5 +173,6 @@ contract LiskGarden{
     }
 
     receive() external payable {}
+
 
 }
