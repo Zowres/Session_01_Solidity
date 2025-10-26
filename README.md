@@ -1,6 +1,8 @@
-Di sesi ini saya belajar basic - basic untuk membuat smart contract. Seperti cara membuat string, number, address, dan lain - lain.
-Pengalaman ini membuat saya menjadi lebih paham dalam pembuatan smart contract. Dengan membuat liskgarden saya menjadi lebih mengerti cara kerja
-smart contract. Seperti melakukan transaksi menggunakan ETH atau melakukan update data dan lain-lain.
+What have I learned?
+Saya belajar dasar pembuatan smart contract seperti penggunaan tipe data (string, number, address), mapping, struct, event, dan fungsi. Dari project LiskGarden, saya juga jadi lebih paham alur kerja smart contract seperti transaksi dengan ETH, update data, dan state management.
 
+Difficulties / Problem?
+Saya memilih kategori easy, karena masih tahap awal dan belum menemui kendala besar. tetapi masih harus melihat dokumentasi karena cukup susah dan belum terbiasa dengan syntaxnya
 
-
+Next session goal?
+Melanjutkan ke fitur lanjutan: menambah mekanik gameplay (misal: pupuk / item), memperbaiki reward logic, dan mulai optimasi gas.
